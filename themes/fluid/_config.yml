@@ -883,7 +883,18 @@ links:
       link: "https://space.bilibili.com/511840995",
       image: "https://coding-pages-bucket-126277-7922605-6465-394446-1304367309.cos-website.ap-hongkong.myqcloud.com/EMUL-docs-img/bilibili-line.png"
     }
-
+    - {
+      title: "EMUL Webside",
+      intro: "EMUL门户网站",
+      link: "https://leen-css-team.gitee.io/emul-webside/",
+      image: "https://coding-pages-bucket-126277-7922605-6465-394446-1304367309.cos-website.ap-hongkong.myqcloud.com/EMUL-docs-img/logo.png"
+    }
+    - {
+      title: "EMUL Docs",
+      intro: "EMUL文档",
+      link: "https://leen-css-team.gitee.io/emul-docs/",
+      image: "https://coding-pages-bucket-126277-7922605-6465-394446-1304367309.cos-website.ap-hongkong.myqcloud.com/EMUL-docs-img/logo.png"
+    }
 #---------------------------
 # 以下是配置 JS CSS 等静态资源的 URL 前缀，可以自定义成 CDN 地址，
 # 默认的 jsDelivr CDN 可能在部分地区无法访问，如果需要修改，最好使用与默认配置相同的版本，以避免潜在的问题，
