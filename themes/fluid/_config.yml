@@ -884,6 +884,12 @@ links:
       image: "https://coding-pages-bucket-126277-7922605-6465-394446-1304367309.cos-website.ap-hongkong.myqcloud.com/EMUL-docs-img/bilibili-line.png"
     }
     - {
+      title: "Wibus blog",
+      intro: "Wibus的博客首页（友情链接）",
+      link: "https://blog.iucky.cn/",
+      image: "https://coding-pages-bucket-126277-7922605-6465-394446-1304367309.cos-website.ap-hongkong.myqcloud.com/EMUL-docs-img/wibus.jpg"
+    }
+    - {
       title: "EMUL Webside",
       intro: "EMUL门户网站",
       link: "https://leen-css-team.gitee.io/emul-webside/",
