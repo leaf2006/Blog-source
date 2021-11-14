@@ -17,7 +17,7 @@ categories:
 http://mirrors.163.com/
 ```
 进入后，我们选择ubuntu-releases，进入后，由于我们需要寻找18.04以前的版本，所以这里我们找到18.04上面的那个版本16.04.6。进入后，由于我们要选择的是32bit版本且为服务器版本，故选择ubuntu-16.04.6-server-i386.iso 。
-![](https://coding-pages-bucket-126277-8695253-16545-585210-1304367309.cos-website.ap-hongkong.myqcloud.com/13.png)
+![](https://cdn.jsdelivr.net/gh/leaf2006/image/img/82.png)
 
 - ## 安装
 
@@ -25,11 +25,11 @@ http://mirrors.163.com/
 
 接下来就是安装了，安装过程默认即可，一般不需要动键盘鼠标。等一段时间，就安装好了。
 
-![](https://coding-pages-bucket-126277-8695253-16545-585210-1304367309.cos-website.ap-hongkong.myqcloud.com/14.png)
+![](https://cdn.jsdelivr.net/gh/leaf2006/image/img/83.png)
 
 - ## 最后
 
-![](https://coding-pages-bucket-126277-8695253-16545-585210-1304367309.cos-website.ap-hongkong.myqcloud.com/15.png)
+![](https://cdn.jsdelivr.net/gh/leaf2006/image/img/84.png)
 
 安装完后，登录Ubuntu，即可畅享了！（我先装个gcc再说【狗头保命】）
 

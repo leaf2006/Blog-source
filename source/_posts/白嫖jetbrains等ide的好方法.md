@@ -9,9 +9,9 @@ categories:
 
 jetbrains的ide是一个非常出色非常好用的受众极广的ide，学习编程开发的一定都有所耳闻，一兴奋地去查了官网，结果……
 
-![](https://coding-pages-bucket-126277-7922605-6465-394446-1304367309.cos-website.ap-hongkong.myqcloud.com/EMUL-docs-img/35.png)
+![](https://cdn.jsdelivr.net/gh/leaf2006/image/img/35.png)
 
-![](https://coding-pages-bucket-126277-7922605-6465-394446-1304367309.cos-website.ap-hongkong.myqcloud.com/EMUL-docs-img/36.png)
+![](https://cdn.jsdelivr.net/gh/leaf2006/image/img/36.png)
 
 这价格……为了几个软件，这也太贵了吧……
 
@@ -23,13 +23,13 @@ jetbrains的ide是一个非常出色非常好用的受众极广的ide，学习�
 
 这个方法我没有尝试过，但是如果你是一个大学生，应该是可以使用教育邮箱来进行注册的。
 
-![](https://coding-pages-bucket-126277-7922605-6465-394446-1304367309.cos-website.ap-hongkong.myqcloud.com/EMUL-docs-img/37.png)
+![](https://cdn.jsdelivr.net/gh/leaf2006/image/img/37.png)
 
 如果你是国内的大学生，可能“需要您提供最近 6 个月的注册信息或成绩单。该文件必须包含您的姓名、学生证号、日期等信息。您还可以使用学信网的学校状态验证报告。”
 
 然后只需要在以下页面填写信息然后等待jetbrains的通知即可（结果将发送至你的邮箱当中）
 
-![](https://coding-pages-bucket-126277-7922605-6465-394446-1304367309.cos-website.ap-hongkong.myqcloud.com/EMUL-docs-img/38.png)
+![](https://cdn.jsdelivr.net/gh/leaf2006/image/img/38.png)
 
 此页面已经有官方的中文翻译，所以不用担心
 
@@ -47,15 +47,15 @@ jetbrains的ide是一个非常出色非常好用的受众极广的ide，学习�
 
 如果你有一些开发满三个月的github或者其他平台上的项目，都可以用于获取免费许可证，并且如果你的提交数量还算可观，通过的概率会十分大，
 
-![](https://coding-pages-bucket-126277-7922605-6465-394446-1304367309.cos-website.ap-hongkong.myqcloud.com/EMUL-docs-img/39.png)
+![](https://cdn.jsdelivr.net/gh/leaf2006/image/img/39.png)
 
 只需要填写这张表格，即可以申请（此截图为翻译后版本）
 
-![](https://coding-pages-bucket-126277-7922605-6465-394446-1304367309.cos-website.ap-hongkong.myqcloud.com/EMUL-docs-img/40.png)
+![](https://cdn.jsdelivr.net/gh/leaf2006/image/img/40.png)
 
 如果审核通过，你将收到这一封邮件
 
-![](https://coding-pages-bucket-126277-7922605-6465-394446-1304367309.cos-website.ap-hongkong.myqcloud.com/EMUL-docs-img/41.png)
+![](https://cdn.jsdelivr.net/gh/leaf2006/image/img/41.png)
 
 然后根据邮件内容的引导，就可以获得免费的许可证了！
 
@@ -71,7 +71,7 @@ jetbrains的ide是一个非常出色非常好用的受众极广的ide，学习�
 
 首先，先解压本压缩包，可以得到以下一个.jar包，它就是插件本体了
 
-![](https://coding-pages-bucket-126277-7922605-6465-394446-1304367309.cos-website.ap-hongkong.myqcloud.com/EMUL-docs-img/46.png)
+![](https://cdn.jsdelivr.net/gh/leaf2006/image/img/46.png)
 
 打开jetbrains ide，我这里用webstorm，打开
 
@@ -79,33 +79,33 @@ jetbrains的ide是一个非常出色非常好用的受众极广的ide，学习�
 
 点击Evaluate for free
 
-![](https://coding-pages-bucket-126277-7922605-6465-394446-1304367309.cos-website.ap-hongkong.myqcloud.com/EMUL-docs-img/42.png)
+![](https://cdn.jsdelivr.net/gh/leaf2006/image/img/42.png)
 
 点击Evaluate
 
-![](https://coding-pages-bucket-126277-7922605-6465-394446-1304367309.cos-website.ap-hongkong.myqcloud.com/EMUL-docs-img/43.png)
+![](https://cdn.jsdelivr.net/gh/leaf2006/image/img/43.png)
 
 进入此界面，点击configure
 
-![](https://coding-pages-bucket-126277-7922605-6465-394446-1304367309.cos-website.ap-hongkong.myqcloud.com/EMUL-docs-img/44.png)
+![](https://cdn.jsdelivr.net/gh/leaf2006/image/img/44.png)
 
 然后点击Plugins
 
-![](https://coding-pages-bucket-126277-7922605-6465-394446-1304367309.cos-website.ap-hongkong.myqcloud.com/EMUL-docs-img/45.png)
+![](https://cdn.jsdelivr.net/gh/leaf2006/image/img/45.png)
 
 可得到以下界面，点击设置的齿轮小图标，点击Install Plugin from Disk...
 
-![](https://coding-pages-bucket-126277-7922605-6465-394446-1304367309.cos-website.ap-hongkong.myqcloud.com/EMUL-docs-img/47.png)
+![](https://cdn.jsdelivr.net/gh/leaf2006/image/img/47.png)
 
 选择那个.jar包
 
-![](https://coding-pages-bucket-126277-7922605-6465-394446-1304367309.cos-website.ap-hongkong.myqcloud.com/EMUL-docs-img/48.png)
+![](https://cdn.jsdelivr.net/gh/leaf2006/image/img/48.png)
 
 就成功导入这个插件了！
 
 当然如果你是在以下界面，通过以下操作进入插件界面：
 
-![](https://coding-pages-bucket-126277-7922605-6465-394446-1304367309.cos-website.ap-hongkong.myqcloud.com/EMUL-docs-img/49.png)
+![](https://cdn.jsdelivr.net/gh/leaf2006/image/img/49.png)
 
 点击File，点击Settings，然后点击Plugins，就可按照上述过程进行插件安装了
 
