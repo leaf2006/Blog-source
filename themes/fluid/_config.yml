@@ -890,40 +890,10 @@ links:
       image: "https://cdn.jsdelivr.net/gh/leaf2006/image/img/favicon.png"
     }
     - {
-      title: "leaf2006 github",
-      intro: "我的github首页",
-      link: "https://github.com/leaf2006",
-      image: "https://cdn.jsdelivr.net/gh/leaf2006/image/img/GitHub.png"
-    }
-    - {
-      title: "leaf2006 gitee",
-      intro: "我的gitee首页",
-      link: "https://gitee.com/leaf2006",
-      image: "https://cdn.jsdelivr.net/gh/leaf2006/image/img/gitee2.png"
-    }
-    - {
-      title: "leafdeveloper bilibili",
-      intro: "我的bilibili首页",
-      link: "https://space.bilibili.com/511840995",
-      image: "https://cdn.jsdelivr.net/gh/leaf2006/image/img/bilibili-line.png"
-    }
-    - {
-      title: "Wibus blog",
-      intro: "Wibus的博客首页（友情链接）",
+      title: "秉松博客-有秉性且正直的松",
+      intro: "",
       link: "https://blog.iucky.cn/",
-      image: "https://cdn.jsdelivr.net/gh/leaf2006/image/img/wibus.jpg"
-    }
-    - {
-      title: "EMUL Webside",
-      intro: "EMUL门户网站",
-      link: "https://leen-css-team.gitee.io/emul-webside/",
-      image: "https://cdn.jsdelivr.net/gh/leaf2006/image/img/logo.png"
-    }
-    - {
-      title: "EMUL Docs",
-      intro: "EMUL文档",
-      link: "https://leen-css-team.gitee.io/emul-docs/",
-      image: "https://cdn.jsdelivr.net/gh/leaf2006/image/img/logo.png"
+      image: "https://blog.iucky.cn/favicon.ico"
     }
 #---------------------------
 # 以下是配置 JS CSS 等静态资源的 URL 前缀，可以自定义成 CDN 地址，
